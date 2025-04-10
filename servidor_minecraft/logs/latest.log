@@ -181,3 +181,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 20:13:27.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.8165943728882468
 [10Apr2025 20:13:27.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.3716998040236561
 [10Apr2025 20:18:41.530] [Server thread/WARN] [cgm/]: literal{BaconHairLord}(df968c2c-da38-4955-a8d0-0144fa3b2af5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[10Apr2025 20:25:54.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BaconHairLord lost connection: Disconnected
+[10Apr2025 20:25:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaconHairLord left the game

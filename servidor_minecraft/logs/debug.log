@@ -3609,3 +3609,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 20:16:04.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 20:16:04.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 20:18:41.530] [Server thread/WARN] [cgm/]: literal{BaconHairLord}(df968c2c-da38-4955-a8d0-0144fa3b2af5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[10Apr2025 20:21:04.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 20:21:04.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 20:25:54.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BaconHairLord lost connection: Disconnected
+[10Apr2025 20:25:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaconHairLord left the game
+[10Apr2025 20:26:04.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 20:26:04.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
