@@ -169,3 +169,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Apr2025 20:03:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaconHairLord has made the advancement [Fetch Me Their Souls!]
 [10Apr2025 20:03:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaconHairLord has made the advancement [Chompy]
 [10Apr2025 20:08:09.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaconHairLord has completed the challenge [Eye of the Tiger]
+[10Apr2025 20:13:26.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.25601576279946414
+[10Apr2025 20:13:27.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.6772708316492384
+[10Apr2025 20:13:27.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.30116023129627223
+[10Apr2025 20:13:27.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.30167015976091704
+[10Apr2025 20:13:27.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.7253408237580672
+[10Apr2025 20:13:27.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.31031915194473925
+[10Apr2025 20:13:27.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.31853535575702807
+[10Apr2025 20:13:27.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.7665374781562022
+[10Apr2025 20:13:27.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.3417320568742639
+[10Apr2025 20:13:27.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.8165943728882468
+[10Apr2025 20:13:27.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Scarlet Biplane (vehicle of BaconHairLord) moved wrongly! 0.3716998040236561
+[10Apr2025 20:18:41.530] [Server thread/WARN] [cgm/]: literal{BaconHairLord}(df968c2c-da38-4955-a8d0-0144fa3b2af5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
